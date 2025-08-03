@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* 1rem = 16px (somewhat (by default) true) */
+
+* {
+  box-sizing: border-box;
+}
+
+/* 
+If
+  html {
+    font-size: 10px;
+  }
+  then, 1rem = 10px
+*/
+
+button {
+  cursor: pointer;
+}
