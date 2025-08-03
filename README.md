@@ -2,15 +2,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-git clone https://github.com/risalshahed/ostad-11.2-frontend-exc-batch-5
-cd ostad-11.2-frontend-exc-batch-5
-npm i
-npm run dev
-```
-
 ## Why Next JS?
 
 ### Problems in React
@@ -35,3 +26,23 @@ npm run dev
 ### React Server Component
 
 - Only the Components with user interactions will be Client Components. All the others will be Server Components. And in case of Server Components, every Server Component will be rendered only on Server. Meanwhile in case of SSR, the components are re-rendered in the Client side!
+
+### Clone the Project
+
+```bash
+git clone https://github.com/risalshahed/frontend-ostad-batch-5.git
+cd frontend-ostad-batch-5
+```
+
+### Switch to 11.2
+
+```bash
+git switch 11.2
+```
+
+### Install & Run
+
+```bash
+npm i
+npm run dev
+```
