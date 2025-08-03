@@ -37,3 +37,23 @@
 
   - Chart Types (Bar, Line, Pie)
   - Choosing Libraries (e.g., Recharts)
+
+### Clone the Project
+
+```bash
+git clone https://github.com/risalshahed/frontend-ostad-batch-5.git
+cd frontend-ostad-batch-5
+```
+
+### Switch to 9.1
+
+```bash
+git switch 9.1
+```
+
+### Install & Run
+
+```bash
+npm i
+npm run dev
+```
