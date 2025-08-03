@@ -16,12 +16,6 @@ git clone https://github.com/risalshahed/frontend-ostad-batch-5.git
 cd frontend-ostad-batch-5
 ```
 
-### Switch to 12.1
-
-```bash
-git switch 12.1
-```
-
 ### Install & Run
 
 ```bash
